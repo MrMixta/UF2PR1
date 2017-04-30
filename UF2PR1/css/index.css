@@ -1,0 +1,23 @@
+                
+
+
+.flotante{
+					position:fixed;
+					width:50px;
+					bottom:3%;
+					right:3%;
+					
+				}
+#b{
+				background-color: #81ddfc;
+				border-radius: 50px 50px 50px 50px;
+				}
+
+#v {
+    background-color: #ff3f3f;
+    
+}
+
+#contactos {
+    background-color: #81ddfc;
+}
